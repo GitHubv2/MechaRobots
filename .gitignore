@@ -1,2 +1,5 @@
 # Ignore readme file
 README.md
+
+bot/
+mecha.py
